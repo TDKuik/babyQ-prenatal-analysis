@@ -71,7 +71,7 @@ repeat_users <- user_counts %>% filter(n >= 2)
 
 survey_cols <- c("Exercise", "sleep", "fruits", "veggies", "whole grains",
                  "dairy", "probiotics", "protein", "sugar soda", "art_sweets",
-                 "snacks", "deep fired", "smoking", "alcohol", "tv sitting",
+                 "snacks", "deep fried", "smoking", "alcohol", "tv sitting",
                  "vitamins", "Vitamin D", "DHA", "depression", "stress", "support")
 
 
